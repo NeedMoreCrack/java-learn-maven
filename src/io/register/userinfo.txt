@@ -1,2 +1,0 @@
-username=andy&password=123&errorCount=0
-username=kelly&password=321&errorCount=0
